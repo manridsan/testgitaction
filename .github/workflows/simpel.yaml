@@ -17,4 +17,4 @@ jobs:
 
       - name: Show IST time
         run: date -u -d '+5 hours 30 minutes'
-        run: cat test
+       
